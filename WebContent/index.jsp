@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>cowork</h1>
+	<h2>프로젝트 가봅시다!</h2>
 </body>
 </html>
